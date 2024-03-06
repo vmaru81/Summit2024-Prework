@@ -1,6 +1,6 @@
 # Summit2024-Prework
 
-Preperation for 2024 PFT Summit: **Software Development Workflows**
+Preperation for 2024 PFT Summit 03/06/24: **Software Development Workflows**
 
 **Tutorial Requirements**
 
